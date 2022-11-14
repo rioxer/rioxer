@@ -31,7 +31,7 @@ const RioX = {
 <br><strong>Honored</strong> to pay homage to the ancestors for ever and ever.</em>
 
 <p align="center">
-[<img style="margin: 0 auto;" src="https://pbs.twimg.com/media/FYXzsAoUEAEsqje?format=jpg&name=4096x4096" width="50%">]
+<img style="margin: 0 auto;" src="https://pbs.twimg.com/media/FYXzsAoUEAEsqje?format=jpg&name=4096x4096" width="50%">
 </p>
 
 <h1 align="center"> To Be Continue ! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> </h1>
