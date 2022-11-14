@@ -6,8 +6,9 @@
 Full Stack Web Developer at <a href="https://facebook.com/rioxer.dev">RioX</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-Instagram: [rioxer](https://www.instagram.com/rioxer.dev/)
-Facebook: [Lê Hiển Vinh](https://facebook.com/rioxer.dev)
+<li>Instagram: [rioxer](https://www.instagram.com/rioxer.dev/)</li>
+<li>Facebook: [Lê Hiển Vinh](https://facebook.com/rioxer.dev)</li><br>
+
 [![GitHub rioxer](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/rioxer)
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me...  
@@ -27,7 +28,8 @@ const RioX = {
 }
 ```
 
-<img src="https://media.giphy.com/media/11bkg7uuZJRtza/giphy.gif" width="60"> <em>To be <strong>a great man</strong> must become
+### <img src="https://media.giphy.com/media/11bkg7uuZJRtza/giphy.gif" width="60"> Idioms...
+<em>To be <strong>a great man</strong> must become
 <br><strong>Honored</strong> to pay homage to the ancestors for ever and ever.</em>
 
 <p align="center">
