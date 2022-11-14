@@ -6,8 +6,8 @@
 Full Stack Web Developer at <a href="https://facebook.com/rioxer.dev">RioX</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-<li>Instagram: [rioxer](https://www.instagram.com/rioxer.dev/)</li>
-<li>Facebook: [Lê Hiển Vinh](https://facebook.com/rioxer.dev)</li><br>
+Instagram: [rioxer](https://www.instagram.com/rioxer.dev/) <br>
+Facebook: [Lê Hiển Vinh](https://facebook.com/rioxer.dev) <br>
 
 [![GitHub rioxer](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/rioxer)
 
