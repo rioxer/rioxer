@@ -16,9 +16,9 @@ Facebook: [Lê Hiển Vinh](https://facebook.com/rioxer.dev) <br>
 ```javascript
 const RioX = {
   name: "Le Hien Vinh" | "RioX",
-  code: [Javascript, C++, HTML, CSS, C#, Python, Java],
-  tools: [loading...],
-  architecture: ["design system pattern"...],
+  code: "Javascript, C++, HTML, CSS, C#, Python, Java",
+  tools: "loading...",
+  architecture: "Design Pattern"...],
   skills: {
             sing: "Bolero, Pop, Rnb",
             code: "Bug & Bug",
